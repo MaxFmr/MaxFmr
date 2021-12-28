@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MaxFmr
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on some fun projects
-- 📫 How to reach me : instagram @max_fmr_nft
+- 📫 How to reach me : 📧 maxime.kerlidou@gmail.com / instagram @max_fmr_dev ,
 
 <!---
 MaxFmr/MaxFmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
