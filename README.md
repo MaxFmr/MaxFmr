@@ -3,7 +3,7 @@
 - 💞️ I’m looking to feed my curiosity 
 - 📫 How to reach me : 📧 maxime.kerlidou@gmail.com / instagram @max_fmr_dev / https://maximekerlidou.fr,
 
-My favorites subjects : Web develpment, NextJs, NodeJS, React, Music, MAO, Blockchain ...
+My favorites subjects : Web develpment, TypeScriptn NextJs, NodeJS, React, Music, MAO, Blockchain ...
 
 <!---
 MaxFmr/MaxFmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
