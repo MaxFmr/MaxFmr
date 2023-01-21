@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxFmr aka Maxime KERLIDOU
-- 🇫🇷 I'm au French Full-stack React/Node TS programer
+- 🇫🇷 I'm au French Full-stack React/NodeJS TS programer
 - 💞️ I’m looking to feed my curiosity 
 - 📫 How to reach me : 📧 maxime.kerlidou@gmail.com / instagram @max_fmr_dev / https://maximekerlidou.fr,
 
