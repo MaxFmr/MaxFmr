@@ -3,6 +3,7 @@
 - 💞️ I’m looking to feed my curiosity 
 - 📫 How to reach me : 📧 maxime.kerlidou@gmail.com / instagram @max_fmr_dev 
 -  https://maximekerlidou.fr,
+-  Writer and webmaster at https://www.devducoin.dev/
 
 
 "Listen, Analyze, Build, and Share.
